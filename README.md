@@ -1,9 +1,19 @@
-### Hi there 👋
+# Hi there 🤓 
+
+## I'm Ezequiel Zanetta, a Senior Android Engineer from Argentina, working remotely.
+
+- 🤖 Playing with the Android SDK since 2013
+- 📢 Co-Organizer at [Android Devs Buenos Aires meetup](https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/) - [Follow us on twiiter 🐦](https://twitter.com/AndroidDevsBsAs)
+- 👨‍💻 Using Kotlin for every app
+- 🗣 Speaker and mentor for android talks & workshops
+
+
+- [LinkedIn](https://www.linkedin.com/in/ezequielzanetta/)
+- [Twitter](https://twitter.com/zanettapp)
 
 <!--
 **ezanetta/ezanetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
