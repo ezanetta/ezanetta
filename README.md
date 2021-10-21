@@ -1,6 +1,6 @@
 # Hi there 🤓 
 
-## I'm Ezequiel Zanetta, a Senior Android Engineer from Argentina, working remotely.
+## I'm Ezequiel Zanetta, a Senior Android Engineer from Argentina, based in Spain, working remotely.
 
 - 🤖 Playing with the Android SDK since 2013
 - 📢 Co-Organizer at [Android Devs Buenos Aires meetup](https://www.meetup.com/es-ES/Android-Devs-Buenos-Aires/) - [Follow us on twiiter 🐦](https://twitter.com/AndroidDevsBsAs)
